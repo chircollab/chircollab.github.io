@@ -1,15 +1,16 @@
 language: r
+    
 cache: packages
+
 branches:
     only:
         - website-source
+        
 r_github_packages:
     - rstudio/blogdown
 
 before_script:
     - Rscript -e 'blogdown::install_hugo()'
-    
-    
 
 script:
     - Rscript -e 'blogdown::build_site()'
@@ -25,4 +26,5 @@ deploy:
     on:
         branch: website-source
     local_dir: public
+    repo: chircollab/chircollab.github.io
     target_branch: master
