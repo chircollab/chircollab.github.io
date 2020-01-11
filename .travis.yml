@@ -21,10 +21,9 @@ before_deploy:
 deploy:
     provider: pages
     skip_cleanup: true
-    edge: true
     github_token: $GITHUB_TOKEN
     on:
         branch: website-source
-    local_dir: 
+    local_dir: docs
     repo: chircollab/chircollab.github.io
     target_branch: master
