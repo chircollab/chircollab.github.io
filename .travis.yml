@@ -8,9 +8,14 @@ r_github_packages:
 
 before_script:
     - Rscript -e 'blogdown::install_hugo()'
+    
+    
 
 script:
     - Rscript -e 'blogdown::build_site()'
+    
+before_deploy:
+    - cd $TRAVIS_BUILD_DIR
 
 deploy:
     provider: pages
