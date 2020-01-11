@@ -1,27 +1,22 @@
 language: r
-dist: xenial
-latex: false
-
+cache: packages
 branches:
-  only:
-    - website-source
-
-cache:
-  packages: yes
-  directories:
-    - $HOME/bin
+    only:
+        - website-source
+r_github_packages:
+    - rstudio/blogdown
 
 before_script:
-  - Rscript -e 'blogdown::install_hugo()'
+    - Rscript -e 'blogdown::install_hugo(version = "0.20.7")'
 
 script:
-  - Rscript -e 'blogdown::build_site()'
+    - Rscript -e 'blogdown::build_site()'
 
 deploy:
-  provider: pages
-  skip_cleanup: true
-  github_token: $GITHUB_TOKEN
-  on:
-    branch: website-source
-  local_dir: public
-  target_branch: master
+    provider: pages
+    skip_cleanup: true
+    github_token: $GITHUB_TOKEN
+    on:
+        branch: website-source
+    local_dir: public
+    target_branch: master
