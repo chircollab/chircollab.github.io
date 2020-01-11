@@ -4,15 +4,17 @@ latex: false
 
 branches:
   only:
-    - master
+    - source
 
 cache:
   packages: yes
   directories:
     - $HOME/bin
 
-script:
+before_script:
   - Rscript -e 'blogdown::install_hugo()'
+
+script:
   - Rscript -e 'blogdown::build_site()'
 
 deploy:
@@ -20,8 +22,6 @@ deploy:
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
   on:
-    branch: master
+    branch: website-source
   local_dir: public
-  fqdn: travis-blogdown.yihui.name
-  repo: chircollab/chircollab.github.io
   target_branch: master
