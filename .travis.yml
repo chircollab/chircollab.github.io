@@ -7,7 +7,7 @@ r_github_packages:
     - rstudio/blogdown
 
 before_script:
-    - Rscript -e 'blogdown::install_hugo(version = "0.20.7")'
+    - Rscript -e 'blogdown::install_hugo()'
 
 script:
     - Rscript -e 'blogdown::build_site()'
@@ -18,5 +18,5 @@ deploy:
     github_token: $GITHUB_TOKEN
     on:
         branch: website-source
-    local_dir: public
+    local_dir: ${TRAVIS_BUILD_DIR}
     target_branch: master
