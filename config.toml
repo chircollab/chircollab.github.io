@@ -106,7 +106,6 @@ googleAnalytics = ""
 
     [[params.team.members]]
       name = "Emily Riederer*"
-      position = "Capital One"
       img = "emily-riederer.jpg"
       twitter = "EmilyRiederer"
       github = "EmilyRiederer"
@@ -114,17 +113,11 @@ googleAnalytics = ""
       
     [[params.team.members]]
       name = "Alex Hayes*"
-      position = "UW-Madison"
+      position = "University of Wisconsin-Madison"
       img = "alex-hayes.jpeg"
       twitter = "alexpghayes"
       github = "alexpghayes"
       url = "https://www.alexpghayes.com"
-
-    [[params.team.members]]
-      name = "William Bonnell"
-      position = "NORC at the University of Chicago"
-      img = "william-bonnell.jpeg"
-      twitter = "_willdebras"
 
     [[params.team.members]]
       name = "Sydney Purdue"
@@ -133,12 +126,20 @@ googleAnalytics = ""
       twitter = "Sydney_NotAUS"
       github = "skpurdue"
       url = "sydneykpurdue.wordpress.com"
+
+    [[params.team.members]]
+      name = "William Bonnell"
+      position = "NORC at the University of Chicago"
+      img = "william-bonnell.jpeg"
+      twitter = "_willdebras"
+      github = "willdebras"
+
       
 # Join us section
   [params.joinus]
   enable = true
   title = "Join us!"
-  text = "Applications for the Chicago R Unconference closed at **midnight CST on February 16, 2019**. We hope to see you at next year's unconf!"
+  text = "Applications for the Chicago R Unconference are now open! Please [apply here](https://docs.google.com/forms/d/e/1FAIpQLSfgva799so7rGsBOMO6aefGj1lbKONHAAnM5fXxEJwAVjxNIQ/viewform?usp=sf_link). Attendees will be a mix of community-based invitations and self-nominations, modeled after the rOpenSci unconference. The deadline for applications is **midnight CST on February 16, 2019**."
 
 # Venue section
   [params.venue]
@@ -233,7 +234,7 @@ googleAnalytics = ""
   [params.footer]
     enable = true
     copyright = "Published under the Apache License 2.0. Thank you to rOpenSci and Nick Tierney for providing a [lovely guide](http://ozunconf18.ropensci.org) for this site."
-    text = "[Contact us](mailto:chirunconf@gmail.com) for more information about the event. This page is available at [this repo](https://github.com/chirunconf/chirunconf.github.io). Corrections, changes, and suggestions for improvement are welcome as pull requests."
+    text = "[Contact us](mailto:chirunconf@gmail.com) for more information about the event. This page is available at [this repo](https://github.com/chircollab/chircollab.github.io). Corrections, changes, and suggestions for improvement are welcome as pull requests."
 
     [[params.footer.quicklinks]]
       text = "Privacy Policy"
