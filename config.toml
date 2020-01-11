@@ -122,7 +122,7 @@ googleAnalytics = ""
 
     [[params.team.members]]
       name = "William Bonnell"
-      position = "NORC, UChicago"
+      position = "NORC at the University of Chicago"
       img = "william-bonnell.jpeg"
       twitter = "_willdebras"
 
