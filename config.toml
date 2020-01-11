@@ -231,7 +231,7 @@ googleAnalytics = ""
 
   # Footer section
   [params.footer]
-    enable = true
+    enable = false
     copyright = "Published under the Apache License 2.0. Thank you to rOpenSci and Nick Tierney for providing a [lovely guide](http://ozunconf18.ropensci.org) for this site."
     text = "[Contact us](mailto:chirunconf@gmail.com) for more information about the event. This page is available at [this repo](https://github.com/chirunconf/chirunconf.github.io). Corrections, changes, and suggestions for improvement are welcome as pull requests."
 
