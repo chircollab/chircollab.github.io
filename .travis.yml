@@ -20,11 +20,11 @@ before_deploy:
 
 deploy:
     provider: pages
-    skip_cleanup: true
+    skip_cleanup: false
     edge: true
     github_token: $GITHUB_TOKEN
     on:
         branch: website-source
-    local_dir: ${TRAVIS_BUILD_DIR}
+    local_dir: 
     repo: chircollab/chircollab.github.io
     target_branch: master
