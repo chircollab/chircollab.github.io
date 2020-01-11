@@ -4,7 +4,7 @@ latex: false
 
 branches:
   only:
-    - source
+    - website-source
 
 cache:
   packages: yes
