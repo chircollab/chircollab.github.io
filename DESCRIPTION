@@ -1,0 +1,6 @@
+Package: placeholder
+Type: Website
+Title: chircollab website.
+Version: 0.0.1
+Imports: blogdown
+Remotes: rstudio/blogdown
