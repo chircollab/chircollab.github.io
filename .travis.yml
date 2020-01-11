@@ -18,5 +18,5 @@ deploy:
     github_token: $GITHUB_TOKEN
     on:
         branch: website-source
-    local_dir: ${TRAVIS_BUILD_DIR}
+    local_dir: public
     target_branch: master
