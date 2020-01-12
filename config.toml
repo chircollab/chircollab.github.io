@@ -3,7 +3,7 @@ baseurl = "https://chircollab.github.io"
 canonifyurls = true
 relativeurls = false
 languageCode = "en-us"
-title = "Chicago R Community Collaborative"
+title = "Chicago R Collab"
 location = "Chicago 2020"
 theme = "hugo-ropensci-theme"
 publishDir = "docs"
@@ -15,7 +15,7 @@ googleAnalytics = ""
 [params]
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
-  name = "Chicago R Community Collaborative"
+  name = "Chicago R Collab"
   description = "Chicago, Illinois. March 14-15 2020"
 
   # Link custom assets relative to /static
@@ -42,7 +42,7 @@ googleAnalytics = ""
 
   # Navigation
   [params.navigation]
-    brand = "Chicago R Community Collaborative"
+    brand = "Chicago R Collab"
     # Optional logo as brand stored in img/
     logo = "logo.png"
     about = "What"
@@ -73,7 +73,7 @@ googleAnalytics = ""
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    title = "Chicago R Community Collaborative"
+    title = "Chicago R Collab"
     subtitle = "March 14-15, 2020 • Chicago, Illinois"
     buttonText = "Tell me more"
 
@@ -81,7 +81,7 @@ googleAnalytics = ""
    # About section
    [params.about]
     enable = true
-    title = "Launching the Chicago R Community Collaborative"
+    title = "Launching the Chicago R Collab"
     text = "Inspired by the [rOpenSci](https://ropensci.org/) [unconference series](http://unconf18.ropensci.org/), we're putting together a Chicago-based unconference to encourage open source contribution and development in the Chicago R community. Our goal is to encourage diverse groups to develop open source packages and to contribute to the larger R community. We plan to bring together attendees from industry, academia, government, nonprofits, and more. We'll spend two days collaborating with each other, building R packages and learning from each other.\n\n Not sure how this works? No worries, that probably means you should attend this event! Check out [writeups](https://ropensci.org/blog/2017/10/31/ozunconf2017/) [of](https://ropensci.org/blog/2017/11/17/unconf-sixtips/) [previous](https://ropensci.org/blog/2018/06/05/unconf18/) [unconferences](https://blog.revolutionanalytics.com/2018/05/reflections-on-the-ropensci-unconference.html) for details on how this generally works, and take a look at [past](https://github.com/ropensci/unconf18/issues) [Github](https://github.com/ropensci/ozunconf18/issues/) [issues](https://github.com/ropensci/unconf17) to get a sense of the projects people work on. Projects might include creating new packages from scratch, writing new vignettes, or closing issues on existing packages. We plan to have something for everyone to contribute, even if you consider yourself a beginner! \n\n Because we want our attendees to have a safe, enjoyable, and friendly experience at the unconf, we have a [code of conduct](/coc) that we encourage you to read.  \n\n Additionally, you can find the Github repo for this year's #chirunconf [here](https://github.com/chirunconf/chirunconf19)."
 
   # Team section
@@ -139,7 +139,7 @@ googleAnalytics = ""
   [params.joinus]
   enable = true
   title = "Join us!"
-  text = "Applications for the Chicago R Community Collaborative are now open! Please [apply here](https://docs.google.com/forms/d/1WAIBEe_keXUBY46lIBO28kKAteVtajzrmpJZoVg3XS0/). Attendees will be a mix of community-based invitations and self-nominations, modeled after the rOpenSci unconference. The deadline for applications is **midnight CST on February 2, 2019**."
+  text = "Applications for the Chicago R Collab are now open! Please [apply here](https://docs.google.com/forms/d/1WAIBEe_keXUBY46lIBO28kKAteVtajzrmpJZoVg3XS0/). Attendees will be a mix of community-based invitations and self-nominations, modeled after the rOpenSci unconference. The deadline for applications is **midnight CST on February 2, 2019**."
 
 # Venue section
   [params.venue]
@@ -156,7 +156,7 @@ googleAnalytics = ""
       # Possibility to center items
       #center = true
       title = "Sponsors"
-      text = "Thank you to our sponsors for this year's event! If your organization would also like to sponsor the Chicago R Community Collaborative, please email chircollab [at] gmail com for more information."
+      text = "Thank you to our sponsors for this year's event! If your organization would also like to sponsor the Chicago R Collab, please email chircollab [at] gmail com for more information."
 
       # All the clients' logos are stored under 'static/img/sponsors'.
       # Replace them with your sponsors's logos.
