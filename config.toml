@@ -139,7 +139,7 @@ googleAnalytics = ""
   [params.joinus]
   enable = true
   title = "Join us!"
-  text = "Applications for the Chicago R Community Collaborative are now open! Please [apply here](https://docs.google.com/forms/d/1WAIBEe_keXUBY46lIBO28kKAteVtajzrmpJZoVg3XS0/). Attendees will be a mix of community-based invitations and self-nominations, modeled after the rOpenSci unconference. The deadline for applications is **midnight CST on February 16, 2019**."
+  text = "Applications for the Chicago R Community Collaborative are now open! Please [apply here](https://docs.google.com/forms/d/1WAIBEe_keXUBY46lIBO28kKAteVtajzrmpJZoVg3XS0/). Attendees will be a mix of community-based invitations and self-nominations, modeled after the rOpenSci unconference. The deadline for applications is **midnight CST on February 2, 2019**."
 
 # Venue section
   [params.venue]
