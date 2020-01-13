@@ -97,14 +97,14 @@ googleAnalytics = ""
     # Possibility to center items
     #center = true
     title = "Organizers"
-    text = "Our team is dedicated to inspiring beginners and those new to open source to contribute to the R community. We've worked in industry and academia alike, and we believe that open source is at its best when it draws from diverse contributors. \n \n Note: Mentors for this event are denoted with an asterisk."
+    text = "Our team is dedicated to inspiring beginners and those new to open source to contribute to the R community. We've worked in industry and academia alike, and we believe that open source is at its best when it draws from diverse contributors."
 
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
     
     [[params.team.members]]
-      name = "Angela Li*"
+      name = "Angela Li"
       position = "Center for Spatial Data Science, UChicago"
       img = "angela-li.jpg"
       twitter = "CivicAngela"
@@ -112,14 +112,15 @@ googleAnalytics = ""
       url = "https://www.angela-li.github.io"
 
     [[params.team.members]]
-      name = "Emily Riederer*"
+      name = "Emily Riederer"
+      position = "Capital One"
       img = "emily-riederer.jpg"
       twitter = "EmilyRiederer"
       github = "EmilyRiederer"
       url = "https://www.emilyriederer.netlify.com"
       
     [[params.team.members]]
-      name = "Alex Hayes*"
+      name = "Alex Hayes"
       position = "University of Wisconsin-Madison"
       img = "alex-hayes.jpg"
       twitter = "alexpghayes"
@@ -127,7 +128,7 @@ googleAnalytics = ""
       url = "https://www.alexpghayes.com"
 
     [[params.team.members]]
-      name = "Sydney Purdue*"
+      name = "Sydney Purdue"
       position = "Cook County Sheriff's Office"
       img = "sydney-purdue.jpg"
       twitter = "Sydney_NotAUS"
@@ -135,7 +136,7 @@ googleAnalytics = ""
       url = "sydneykpurdue.wordpress.com"
 
     [[params.team.members]]
-      name = "William Bonnell*"
+      name = "William Bonnell"
       position = "NORC at the University of Chicago"
       img = "william-bonnell.jpg"
       twitter = "_willdebras"
