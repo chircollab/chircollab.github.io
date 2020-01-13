@@ -84,6 +84,13 @@ googleAnalytics = ""
     title = "About the Chicago R Collaborative"
     text = "Formerly known as the [Chicago R Unconference](http://chirunconf.github.io/), the Chicago R Collaborative is part of an [R Consortium-funded grant](https://www.r-consortium.org/projects/awarded-projects) that supports community-led, locally-organized R development events around the world, otherwise known as R Community Collaboratives. \n\n At the Chicago R Collab, you'll team up with other R users and developers to contribute to open source packages, work on data tools, pursue projects you wish you had time for in your day-to-day work, and learn from others in the R community. Our event is open to a wide range of experience levels and attendee backgrounds (see last year’s [attendee list](https://chirunconf.github.io/#participants)!), and we seek to encourage diverse groups to contribute to the larger R community. \n\n If you’re interested in what you’ll be doing at the event, take a look at [last year’s schedule](https://github.com/chirunconf/chirunconf19/wiki/Schedule), [proposed](https://github.com/chirunconf/chirunconf19/issues) and [completed](https://github.com/chirunconf/chirunconf19/wiki/Unconf-Projects) projects or [Twitter recap](https://twitter.com/search?q=%23chirunconf), peruse our [Code of Conduct](https://chircollab.github.io/coc/), or reach out to chircollab [at] gmail.com if you have questions!"
 
+    # Join us section
+      [params.joinus]
+      enable = true
+      title = "Join us!"
+      text = "Applications for the Chicago R Collab are now open! The [application form](https://docs.google.com/forms/d/1WAIBEe_keXUBY46lIBO28kKAteVtajzrmpJZoVg3XS0/) should take around 15-30 minutes to fill out and will help us gauge your interest and involvement in the R community. The deadline for applications is **midnight CST on February 2, 2020** and we plan to notify participants by **February 10, 2020**."
+
+
   # Team section
   [params.team]
     enable = true
@@ -133,13 +140,6 @@ googleAnalytics = ""
       img = "william-bonnell.jpg"
       twitter = "_willdebras"
       github = "willdebras"
-
-      
-# Join us section
-  [params.joinus]
-  enable = true
-  title = "Join us!"
-  text = "Applications for the Chicago R Collab are now open! Please [apply here](https://docs.google.com/forms/d/1WAIBEe_keXUBY46lIBO28kKAteVtajzrmpJZoVg3XS0/). Attendees will be a mix of community-based invitations and self-nominations, modeled after the rOpenSci unconference. The deadline for applications is **midnight CST on February 2, 2019**."
 
 # Venue section
   [params.venue]
