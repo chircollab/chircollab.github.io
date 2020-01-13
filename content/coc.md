@@ -1,12 +1,12 @@
-# Chicago R Collab Code of Conduct
+# Chicago R Collaborative Code of Conduct
 
-Chicago R Collab is dedicated to providing a harassment-free experience for participants at our event(s). Chicago R Collab is a conference intended for professional networking and collaboration in the R community. 
+The Chicago R Collaborative (henceforth referred to as the "Chicago R Collab") is dedicated to providing a harassment-free experience for participants at our event. The Chicago R Collab is an informal, community-led hackathon intended for professional networking and collaboration in the R community. 
 
-We encourage the open exchange of ideas and expression and thus require an environment that recognizes the inherent worth of every person and group. An inclusive space free of harassment encourages interaction among diverse groups. We want to make certain Chicago R Collab is welcoming, and encourages participants to be involved moving forward.
+We encourage the open exchange of ideas and expression and thus require an environment that recognizes the inherent worth of every person and group. An inclusive space free of harassment encourages interaction among diverse groups. We want to make certain our event is welcoming and encourages participants to be involved moving forward.
 
 A **Code of Conduct** is useful to define accepted and acceptable behaviors and to promote high standards of professional practice. It also provides a benchmark for self evaluation and acts as a vehicle for better identity of the community and organization. If you have general questions about codes of conduct, a good place to start is this [code of conduct FAQ](https://www.ashedryden.com/blog/codes-of-conduct-101-faq#cocfaq).
 
-This code (CoC) applies to any participant at Chicago R Collab, including participants in meetings and teleconferences, vendors, staff, and volunteers. This CoC generally applies to conference and pre-conference events. Note that this code augments rather than replaces legal rights and obligations pertaining to any particular situation.
+This code (CoC) applies to any participant at the Chicago R Collab, including participants in meetings and teleconferences, vendors, staff, and volunteers. This CoC generally applies to collab and pre-collab events. Note that this code augments rather than replaces legal rights and obligations pertaining to any particular situation.
 
 ## Expected Behavior
 
@@ -40,7 +40,7 @@ except as necessary to protect vulnerable people from intentional abuse.
 
 ### Harassment in online channels
 
-Participants at Chicago R Collab may also participate online (see below). Please use these guidelines where engaging with particpants:
+Participants at the Chicago R Collab may also participate online (see below). Please use these guidelines where engaging with particpants:
 
 * Avoid using overtly sexual or offensive usernames or profile photos which might detract from a friendly, safe and welcoming environment for all.
 * Do not publish text/screenshots of anything shared in a private communication channels without explicit consent from the author.  This includes screenshots of private messages to public channels, as well as conversations on public channels to anywhere outside of the Chicago R Collab Slack.
@@ -51,28 +51,30 @@ This CoC applies to all Chicago R Collab online spaces (e.g. Twitter, Slack, Fac
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of event staff immediately. Event staff can be identified by t-shirts/staff badges onsite; and an organizer can be found at the event registration counter at any time. You can contact the organizing group at **chircollab@gmail.com.**
 
-Additionally, we have an anonymous reporting form you can use [here](https://docs.google.com/forms/d/10JOrpdh6iRj5lQ3khFBSRy2tO-CIJxBl-Y-Qq2oP1f8/).
+Additionally, we have set up an [anonymous reporting form](https://docs.google.com/forms/d/10JOrpdh6iRj5lQ3khFBSRy2tO-CIJxBl-Y-Qq2oP1f8/) that is only accessible to the Chicago R Collab organizing team. 
 
-While this code of conduct applies to spaces associated with Chicago R Collab, if you are being harassed by a guest/participant of/at Chicago R Collab outside of our spaces, we still want to know about it. We will take all good-faith reports of harassment by Chicago R Collab participants seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The Chicago R Collab organizing committee reserves the right to exclude people from Chicago R Collab based on their past behavior, including behavior outside Chicago R Collab spaces and behavior towards people who are not part of Chicago R Collab.
+While this code of conduct applies to spaces associated with the Chicago R Collab, if you are being harassed by a guest/participant of/at the Chicago R Collab outside of our spaces, we still want to know about it. We will take all good-faith reports of harassment by participants seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The Chicago R Collab organizing committee reserves the right to exclude people from the event based on their past behavior, including behavior outside Chicago R Collab spaces and behavior towards people who are not part of the Chicago R Collab.
 
 In order to protect volunteers from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.
 
 We will respect confidentiality requests for the purpose of protecting victims of abuse. We will not name harassment victims without their affirmative consent.
 
-Conference staff will also provide support to victims, including, but not limited to:
+Event organizers will also provide support to victims, including, but not limited to:
 
 - Providing an escort
 - Briefing key event staff for response/victim assistance
-- And otherwise assisting those experiencing harassment to ensure that they feel safe for the duration of the conference.
+- And otherwise assisting those experiencing harassment to ensure that they feel safe for the duration of the event.
 
 ### Consequences
 
-If a participant engages in behavior in violation of the CoC, the conference organizers may take any action they deem appropriate, ranging from issuing a warning to expulsion from the conference with no refund, depending on the circumstances. Chicago R Collab reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further Chicago R Collab events, trainings or other activities.
+If a participant engages in behavior in violation of the CoC, the event organizers may take any action they deem appropriate, ranging from issuing a warning to expulsion from the event, depending on the circumstances. We reserve the right to exclude any participant found to be engaging in harassing behavior from participating in any further events, trainings or other activities.
 
 ## Pre-Event Concerns
 
 If you are planning to attend an upcoming event, and have concerns regarding another individual who may be present, please contact chircollab@gmail.com. Precautions will be taken to ensure a victim's comfort and safety, including, but not limited to: providing an escort, prepping onsite event staff, and providing onsite contact cell phone numbers for immediate contact.  In extreme cases, we may take action to prevent the harasser from attending the event.
 
-The above code of conduct is based on the R Community Diversity and Inclusion working group code of conduct, as used by R Consortium. 
+## Attribution
+
+The above code of conduct is based on the R Consortium Diversity and Inclusion Working Group's [template Code of Conduct](https://github.com/RConsortium/RCDI-WG/blob/master/conduct/code-of-conduct.md), which is an excellent resource for event organizers.
 
 This policy is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/).
