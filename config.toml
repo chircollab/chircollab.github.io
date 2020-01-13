@@ -3,7 +3,7 @@ baseurl = "https://chircollab.github.io"
 canonifyurls = true
 relativeurls = false
 languageCode = "en-us"
-title = "Chicago R Collab"
+title = "Chicago R Collaborative"
 location = "Chicago 2020"
 theme = "hugo-ropensci-theme"
 publishDir = "docs"
@@ -15,8 +15,8 @@ googleAnalytics = ""
 [params]
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
-  name = "Chicago R Collab"
-  description = "Chicago, Illinois. March 14-15 2020"
+  name = "Chicago R Collaborative"
+  description = "An R community-led, locally-organized hackathon taking place in Chicago, Illinois on March 14-15 2020. Join us at the Chicago R Collab!"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -42,12 +42,11 @@ googleAnalytics = ""
 
   # Navigation
   [params.navigation]
-    brand = "Chicago R Collab"
+    brand = "Chicago R Collaborative"
     # Optional logo as brand stored in img/
     logo = "logo.png"
     about = "What"
     team = "Who"
-    joinus="Join Us"
     venue = "Venue"
     sponsors = "Sponsors"
     contact = "Contact"
@@ -73,7 +72,7 @@ googleAnalytics = ""
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    title = "Chicago R Collab"
+    title = "Chicago R Collaborative"
     subtitle = "March 14-15, 2020 • Chicago, Illinois"
     buttonText = "Tell me more"
 
@@ -234,7 +233,7 @@ googleAnalytics = ""
   [params.footer]
     enable = true
     copyright = "Published under the Apache License 2.0. Thank you to rOpenSci and Nick Tierney for providing a [lovely guide](http://ozunconf18.ropensci.org) for this site."
-    text = "[Contact us](mailto:chircollab@gmail.com) for more information about the event. This event follows a code of conduct. Click here to find the [code of conduct](https://chircollab.github.io/coc/). This page is available at [this repo](https://github.com/chircollab/chircollab.github.io). Corrections, changes, and suggestions for improvement are welcome as pull requests."
+    text = "[Contact us](mailto:chircollab@gmail.com) for more information about the event. Because we want to make sure everyone who attends this event has a safe and comfortable experience, this event follows a [code of conduct](https://chircollab.github.io/coc/). The source code for this page is available at [this Github repository](https://github.com/chircollab/chircollab.github.io). Corrections, changes, and suggestions for improvement are welcome as pull requests."
 
     [[params.footer.quicklinks]]
       text = "Privacy Policy"
