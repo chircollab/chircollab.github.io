@@ -235,7 +235,7 @@ googleAnalytics = ""
   [params.footer]
     enable = true
     copyright = "Published under the Apache License 2.0. Thank you to rOpenSci and Nick Tierney for providing a [lovely guide](http://ozunconf18.ropensci.org) for this site."
-    text = "[Contact us](mailto:chircollab@gmail.com) for more information about the event. Because we want to make sure everyone who attends this event has a safe and comfortable experience, this event follows a [code of conduct](https://chircollab.github.io/coc/). The source code for this page is available at [this Github repository](https://github.com/chircollab/chircollab.github.io). Corrections, changes, and suggestions for improvement are welcome as pull requests."
+    text = "You can [contact us](mailto:chircollab@gmail.com) by email for more information about the event. Because we want to make sure everyone who attends this event has a safe and comfortable experience, this event follows a [code of conduct](https://chircollab.github.io/coc/). \n\n The source code for this page is available at [this Github repository](https://github.com/chircollab/chircollab.github.io). Corrections, changes, and suggestions for improvement are welcome as pull requests."
 
     [[params.footer.quicklinks]]
       text = "Privacy Policy"
