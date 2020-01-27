@@ -55,8 +55,6 @@ Additionally, we have set up an [anonymous reporting form](https://docs.google.c
 
 While this code of conduct applies to spaces associated with the Chicago R Collab, if you are being harassed by a guest/participant of/at the Chicago R Collab outside of our spaces, we still want to know about it. We will take all good-faith reports of harassment by participants seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The Chicago R Collab organizing committee reserves the right to exclude people from the event based on their past behavior, including behavior outside Chicago R Collab spaces and behavior towards people who are not part of the Chicago R Collab.
 
-In order to protect volunteers from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.
-
 We will respect confidentiality requests for the purpose of protecting victims of abuse. We will not name harassment victims without their affirmative consent.
 
 Event organizers will also provide support to victims, including, but not limited to:
