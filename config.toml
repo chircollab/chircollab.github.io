@@ -88,7 +88,7 @@ googleAnalytics = ""
       [params.joinus]
       enable = true
       title = "Join us!"
-      text = "Applications for the Chicago R Collab are now open! The [application form](https://docs.google.com/forms/d/1WAIBEe_keXUBY46lIBO28kKAteVtajzrmpJZoVg3XS0/) should take around 15-30 minutes to fill out and will help us gauge your interest and involvement in the R community. The deadline for applications is **midnight CST on February 2, 2020** and we plan to notify participants by **February 10, 2020**."
+      text = "Applications for the Chicago R Collab closed at **midnight CST on February 2, 2020** We hope to see you at next year's event!"
 
 
   # Team section
