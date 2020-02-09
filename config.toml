@@ -118,14 +118,6 @@ googleAnalytics = ""
       twitter = "EmilyRiederer"
       github = "EmilyRiederer"
       url = "https://www.emilyriederer.netlify.com"
-      
-    [[params.team.members]]
-      name = "Alex Hayes"
-      position = "University of Wisconsin-Madison"
-      img = "alex-hayes.jpg"
-      twitter = "alexpghayes"
-      github = "alexpghayes"
-      url = "https://www.alexpghayes.com"
 
     [[params.team.members]]
       name = "Sydney Purdue"
