@@ -109,7 +109,7 @@ googleAnalytics = ""
       img = "angela-li.jpg"
       twitter = "CivicAngela"
       github = "angela-li"
-      url = "https://www.angela-li.github.io"
+      url = "angela-li.github.io"
 
     [[params.team.members]]
       name = "Emily Riederer"
@@ -117,7 +117,7 @@ googleAnalytics = ""
       img = "emily-riederer.jpg"
       twitter = "EmilyRiederer"
       github = "EmilyRiederer"
-      url = "https://www.emilyriederer.netlify.com"
+      url = "emilyriederer.netlify.com"
 
     [[params.team.members]]
       name = "Sydney Purdue"
@@ -133,6 +133,7 @@ googleAnalytics = ""
       img = "william-bonnell.jpg"
       twitter = "_willdebras"
       github = "willdebras"
+      url = "willdebras.github.io"
 
 # Venue section
   [params.venue]
