@@ -125,7 +125,7 @@ googleAnalytics = ""
       img = "sydney-purdue.jpg"
       twitter = "Sydney_NotAUS"
       github = "skpurdue"
-      url = "sydneykpurdue.wordpress.com"
+      url = "https://sydneykpurdue.wordpress.com"
 
     [[params.team.members]]
       name = "William Bonnell"
