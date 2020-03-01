@@ -96,7 +96,7 @@ googleAnalytics = ""
     enable = true
     # Possibility to center items
     #center = true
-    title = "Organizers"
+    title = "Participants"
     text = "Our team is dedicated to inspiring beginners and those new to open source to contribute to the R community. We've worked in industry and academia alike, and we believe that open source is at its best when it draws from diverse contributors. \n Note: Mentors for this event are denoted with an asterisk."
 
     # All team member's pictures are stored under 'static/img/team'.
