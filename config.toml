@@ -97,14 +97,14 @@ googleAnalytics = ""
     # Possibility to center items
     #center = true
     title = "Organizers"
-    text = "Our team is dedicated to inspiring beginners and those new to open source to contribute to the R community. We've worked in industry and academia alike, and we believe that open source is at its best when it draws from diverse contributors."
+    text = "Our team is dedicated to inspiring beginners and those new to open source to contribute to the R community. We've worked in industry and academia alike, and we believe that open source is at its best when it draws from diverse contributors. \n Note: Mentors for this event are denoted with an asterisk."
 
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
     
     [[params.team.members]]
-      name = "Angela Li"
+      name = "Angela Li*"
       position = "Center for Spatial Data Science, UChicago"
       img = "angela-li.jpg"
       twitter = "CivicAngela"
@@ -112,7 +112,7 @@ googleAnalytics = ""
       url = "https://angela-li.github.io"
 
     [[params.team.members]]
-      name = "Emily Riederer"
+      name = "Emily Riederer*"
       position = "Capital One"
       img = "emily-riederer.jpg"
       twitter = "EmilyRiederer"
@@ -120,7 +120,7 @@ googleAnalytics = ""
       url = "https://emilyriederer.netlify.com"
 
     [[params.team.members]]
-      name = "Sydney Purdue"
+      name = "Sydney Purdue*"
       position = "Cook County Sheriff's Office"
       img = "sydney-purdue.jpg"
       twitter = "Sydney_NotAUS"
@@ -128,12 +128,215 @@ googleAnalytics = ""
       url = "https://sydneykpurdue.wordpress.com"
 
     [[params.team.members]]
-      name = "William Bonnell"
+      name = "William Bonnell*"
       position = "NORC at the University of Chicago"
       img = "william-bonnell.jpg"
       twitter = "_willdebras"
       github = "willdebras"
       url = "https://willdebras.github.io"
+
+
+    [[params.team.members]]
+      name = "Dirk Eddelbuettel*"
+      position = "University of Illinois at Urbana-Champaign"
+      img = "Dirk Eddelbuettel.jpg"
+      twitter = "eddelbuettel"
+      github = "eddelbuettel"
+      url = "https://willdebras.github.io"
+      
+      
+      [[params.team.members]]
+      name = "Zaynaib (Ola) Giwa*"
+      img = "Ola Giwa.jpg"
+      twitter = "@AmazingSpeciali"
+      github = "zaynaib"
+      
+      [[params.team.members]]
+      name = "James Lamb*"
+      img = "James Lamb.png"
+      twitter = "_jameslamb"
+      github = "jameslamb"
+      
+      [[params.team.members]]
+      name = "Eric Nantz*"
+      position = "Statistician / Podcaster"
+      img = "Eric Nantz.jpg"
+      twitter = "theRcast"
+      github = "rpodcast"
+      
+      [[params.team.members]]
+      name = "Mauro Lepore*"
+      position = "2 degrees investing initiative"
+      img = "Mauro Lepore.jpg"
+      twitter = "mauro_lepore"
+      github = "maurolepore"
+      
+      [[params.team.members]]
+      name = "Sharla Gelfand*"
+      img = "Sharla Gelfand.jpg"
+      twitter = "sharlagelfand"
+      github = "sharlagelfand"
+      
+      [[params.team.members]]
+      name = "Sushmita V Gopalan*"
+      position = "Grubhub"
+      img = "Sushmita V Gopalan.jpeg"
+      twitter = "SushGopalan"
+      github = "sushmitavgopalan16"
+      
+      [[params.team.members]]
+      name = "John Blischak*"
+      position = "University of Chicago"
+      img = "John Blischak.jpg"
+      twitter = "jdblischak"
+      github = "jdblischak"
+      
+      [[params.team.members]]
+      name = "Mara Averick*"
+      position = "RStudio"
+      img = "Mara Averick.jpg"
+      twitter = "dataandme"
+      github = "batpigandme"
+      
+      [[params.team.members]]
+      name = "Jim Gruman"
+      position = "CNH Industrial"
+      img = "Jim Gruman.jpg"
+      twitter = "jim_gruman"
+      github = "opus1993"
+      
+      [[params.team.members]]
+      name = "Anh Nhat Tran"
+      position = "Northwestern University"
+      img = "Anh N Tran.jpg"
+      twitter = "anh_n_tran"
+      github = "trannhatanh89"
+      
+      [[params.team.members]]
+      name = "Kristi Angel"
+      img = "Kristi Angel.jpeg"
+      twitter = "kangel09"
+      github = "kangel09"
+      
+      [[params.team.members]]
+      name = "Nick Tallant"
+      img = "Nicholas Tallant.jpg"
+      twitter = "nick__tallant"
+      github = "ndtallant"
+      
+      [[params.team.members]]
+      name = "Bryan Berend"
+      img = "Bryan Berend.jpg"
+      github = "tripleplusone"
+      
+      [[params.team.members]]
+      name = "Kate Doyle"
+      position = "University of Chicago"
+      img = "Kate Doyle.JPG"
+      github = "kdoyle514"
+      
+      [[params.team.members]]
+      name = "Lucy Delaney"
+      position = "University of Illinois at Chicago"
+      img = "Lucy Delaney.jpg"
+      github = "ledelaney"
+      
+      [[params.team.members]]
+      name = "Kanishka Misra"
+      position = "Purdue University"
+      img = "kanishka-misra.jpg"
+      twitter = "iamasharkskin"
+      github = "kanishkamisra"
+      
+      [[params.team.members]]
+      name = "Will Dearden"
+      position = "Allston Trading"
+      img = "Will D.jpeg"
+      github = "wdearden"
+      
+      [[params.team.members]]
+      name = "Tomas Okal"
+      position = "NORC at the University of Chicago"
+      img = "Tom Okal.jpg"
+      twitter = "tomasokal"
+      github = "tomasokal"
+      
+      [[params.team.members]]
+      name = "Jonathan Keane"
+      position = "Socure, Inc"
+      img = "Jonathan Keane.png"
+      twitter = "jonkeane"
+      github = "jonkeane"
+      
+      [[params.team.members]]
+      name = "Edward Visel"
+      position = "Uptake"
+      img = "Edward Visel.jpeg"
+      twitter = "alistaire"
+      github = "alistaire47"
+      
+      [[params.team.members]]
+      name = "Stefany Samp"
+      img = "Stefany Samp.jpeg"
+      twitter = "girasolechi"
+      github = "girasolechi"
+      
+      [[params.team.members]]
+      name = "Natalia Block"
+      position = "All Stars Project of Chicago"
+      img = "Natalia Maciel Block.JPG"
+      twitter = "nataliamblock"
+      github = "nataliablock"
+      
+      [[params.team.members]]
+      name = "Yifei Hu"
+      img = "Patrick.jpg"
+      github = "padraighu"
+      
+      [[params.team.members]]
+      name = "Adam Austin"
+      position = "Allstate"
+      img = "Adam Austin.jpg"
+      twitter = "just_add_data"
+      github = "ataustin"
+      
+      [[params.team.members]]
+      name = "Adarsh Mathew"
+      position = "University of Chicago"
+      img = "Adarsh Mathew.jpg"
+      twitter = "adarshmathew92"
+      github = "adarshmathew"
+      
+      [[params.team.members]]
+      name = "Haoen Cui"
+      img = "Haoen Cui.png"
+      github = "Haoen-Cui"
+      
+      [[params.team.members]]
+      name = "Anna Vasylytsya"
+      img = "Anna Vasylytsya.jpg"
+      github = "annnvv"
+      
+      [[params.team.members]]
+      name = "Sandy Morales"
+      img = "Sandy Morales.jpg"
+
+      
+      [[params.team.members]]
+      name = "Moksha Menghaney"
+      position = "Centre for Spatial Data Science at University of Chicago"
+      img = "Moksha Menghaney.png"
+      twitter = "MokshaMenghaney"
+      
+      [[params.team.members]]
+      name = "Benjamin Ortiz"
+      img = "Benjamin Ortiz Ulloa.jpg"
+      twitter = "plzbeemyfriend"
+      github = "beemyfriend"
+      
+      
+
+
 
 # Venue section
   [params.venue]
