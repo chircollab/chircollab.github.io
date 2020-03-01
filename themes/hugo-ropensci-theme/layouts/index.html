@@ -11,6 +11,10 @@
       {{ partial "about.html" . }}
     {{ end }}
 
+    {{ if .Site.Params.forpartic.enable }}
+      {{ partial "forpartic.html" . }}
+    {{ end }}
+
     {{ if .Site.Params.team.enable }}
       {{ partial "team.html" . }}
     {{ end }}
