@@ -423,15 +423,7 @@ section h3.section-subheading {
     color: #183244;
 }
 
-#forpartic {
-    text-transform: none;
-    font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 18px;
-    line-height:30px;
-    font-weight: 400;
-    text-align: left;
-    color: #fff;
-}
+
 
 #joinus {
     text-transform: none;
@@ -442,6 +434,17 @@ section h3.section-subheading {
     text-align: left;
     color: #fff;
 }
+
+#forpartic {
+    text-transform: none;
+    font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 18px;
+    line-height:30px;
+    font-weight: 400;
+    text-align: left;
+    color: #fff;
+}
+
 
 @media(min-width:768px) {
     section {
