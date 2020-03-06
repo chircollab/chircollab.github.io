@@ -142,6 +142,13 @@ googleAnalytics = ""
       twitter = "_willdebras"
       github = "willdebras"
       url = "https://willdebras.github.io"
+      
+    [[params.team.members]]
+      name = "Brooke Anderson*"
+      position = "Colorado State University"
+      img = "Brooke Anderson.jpeg"
+      twitter = "gbwanderson"
+      github = "geanders"
 
 
     [[params.team.members]]
@@ -199,12 +206,6 @@ googleAnalytics = ""
       twitter = "jdblischak"
       github = "jdblischak"
       
-    [[params.team.members]]
-      name = "Mara Averick*"
-      position = "RStudio"
-      img = "Mara Averick.jpg"
-      twitter = "dataandme"
-      github = "batpigandme"
       
     [[params.team.members]]
       name = "Jim Gruman"
@@ -220,11 +221,6 @@ googleAnalytics = ""
       twitter = "anh_n_tran"
       github = "trannhatanh89"
       
-    [[params.team.members]]
-      name = "Kristi Angel"
-      img = "Kristi Angel.jpeg"
-      twitter = "kangel09"
-      github = "kangel09"
       
     [[params.team.members]]
       name = "Nick Tallant"
@@ -269,12 +265,6 @@ googleAnalytics = ""
       twitter = "tomasokal"
       github = "tomasokal"
       
-    [[params.team.members]]
-      name = "Jonathan Keane"
-      position = "Socure, Inc"
-      img = "Jonathan Keane.png"
-      twitter = "jonkeane"
-      github = "jonkeane"
       
     [[params.team.members]]
       name = "Edward Visel"
@@ -327,7 +317,10 @@ googleAnalytics = ""
       
     [[params.team.members]]
       name = "Sandy Morales"
+      position = "Loyola University Chicago"
+      twitter = "sandyrmorales"
       img = "Sandy Morales.jpg"
+      github = "srmorales08"
 
       
     [[params.team.members]]
@@ -342,6 +335,23 @@ googleAnalytics = ""
       twitter = "plzbeemyfriend"
       github = "beemyfriend"
       
+      [[params.team.members]]
+      name = "Gabriela Cipriano"
+      position = "Cerner"
+      img = "Gabi Cipriano.jpg"
+      
+      [[params.team.members]]
+      name = "Rui Chen"
+      img = "Rui Chen.png"
+      
+      [[params.team.members]]
+      name = "Richard Paquin Morel"
+      position = "University of Pittsburgh"
+      img = "Richard Morel.jpg"
+      twitter = "@paquinmorel"
+      github = "ramorel"
+      
+  
       
 
 
