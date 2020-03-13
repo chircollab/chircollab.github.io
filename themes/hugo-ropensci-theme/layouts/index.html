@@ -5,6 +5,11 @@
 
   <body id="page-top" class="index">
     {{ partial "nav.html" . }}
+    
+        {{ partial "whitespace.html" . }}
+    
+    {{ partial "cancel.html" . }}
+    
     {{ partial "hero.html" . }}
 
     {{ if .Site.Params.about.enable }}

@@ -52,6 +52,7 @@ googleAnalytics = ""
     sponsors = "Sponsors"
     contact = "Contact"
     forpartic = "For Participants"
+    cancel = "Cancellation"
 
     # Add custom links. Those can be pre- and postpended to the default menu above.
     # Use the weight attribute to order your custom links. Uncomment the example
@@ -97,6 +98,11 @@ googleAnalytics = ""
       title = "For Participants"
       text = "If you are participating in this event, make sure to take a look at the event [github repo](https://github.com/chircollab/chircollab20) with issues related to potential project ideas. For information about the event, check out the event [wiki](https://github.com/chircollab/chircollab20/wiki)."
 
+    # Participants section
+      [params.cancel]
+      enable = true
+      title = "Covid-19 Update"
+      text = "We will be cancelling the in-person portion of this event and will be planning to replace it with a remote setup in the coming weeks. Please contact us by [email](chircollab@gmail.com) or slack if you have any questions."
 
 
   # Team section
