@@ -360,7 +360,7 @@ googleAnalytics = ""
     [[params.team.members]]
       name = "Abigail Smith"
       position = "Northwestern University"
-      img = "abigail-smith.jpg"
+      img = "abigail smith.jpg"
       twitter = "flabbysmith"
       github = "abbylsmith"
       url = "https://abbylsmith.github.io/"  
